@@ -18,7 +18,7 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/88735904?v=4">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://lh3.googleusercontent.com/WVxWHuz4okSFHq3tvOZFYBHR1Z50_M0tI8ulP5YckFMb39sd9QtFR7i3eyYN5qP-kxvyprIP5eiNRz0RJer8sZq2UHCwDMzqtZI0zcUwHPP-a-xhisdiKJnn_RDULRKeKTtzBc_Y9DcAY-ftjmmLEUQBKtpblmKufQpbeFxbDuZ007p1tca63YDJvioZzcI-49ZhnaHzBm5HwRJGhJloRX1h7nUQYX9urSr28v4D16GBwI5NycWnb8VgcqEVvqzEcmja_AI7J_OCWAtvNnyCA6a-709mVqVZallyQ_MIib85ldO2hm_rlhZECUO_s0fHWNxHcVNopIJj8YeyJ9qeYGJHcCZttNnOrgNeHJW5fy-cWhJBiJ6gNqZHt-TBqR_CiHLV_RDAxEsnT-ko6ysBNNFc__cqODw7FB6EplSdd64m8rBx8WXHMIEBWtWI-0Nb9dJkhKevlFLLKdiBvBp39CyJlFdxrbkJktakB9N1TCTUdgkTG-6AU3DO_MFmwKYSBfkSeJuklDvn8V_f7gzI1oemQH4HptckFSqFcAI9KSqnShExqUIkIRkA3SnoCqnTCyEqLmoWa7aUXHKmSbbS_GrnoI_DRUT6IYg-_b-f1WUVKOoH3T9YdPV34eZH-apVJTfAeKWhmzLdVcs0EIhCm0z7XblPlVzmxVB6Kqvira0vu_5Df1lFsjtIJ35pKShVAmp0i_eQtrhPV3F7qeT0akvnFYH4Bl0y7XJoCU5kkXWOm931ePx1jlRJdwXEUwlfk-X5ooHsvUPPpyzzJicrRsZ221aRlJxmBJy7cA=s360-no?authuser=0">
 </div>
   
   ##
