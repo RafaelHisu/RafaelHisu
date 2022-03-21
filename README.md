@@ -1,4 +1,4 @@
-### Fala! Sou o Rafael e gosto muito de programar ;)
+### Fala! Tenho 18 anos e novo no mundo do desenvolvimento e programação
 
 - 🔭 Estudando React, Node e Typescript
 - 🌱 Procurando uma primeira oportunidade de emprego
