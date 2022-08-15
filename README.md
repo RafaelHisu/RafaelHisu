@@ -1,4 +1,4 @@
-### Fala! Tenho 18 anos e novo no mundo do desenvolvimento e programação
+### Olá! Tenho 18 anos e novo no mundo do desenvolvimento e programação
 
 - 🔭 Estudando React, Node e Typescript
 - 🌱 Procurando uma primeira oportunidade de emprego
@@ -27,8 +27,5 @@
   <a href="https://www.instagram.com/rafael_hisu" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:rafaelsilvarssantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaeldasilvasantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-    
-  ![Snake animation](https://github.com/RafaelHisu/RafaelHisu/blob/output/github-contribution-grid-snake.svg)
  
 </div>
