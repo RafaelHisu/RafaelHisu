@@ -1,4 +1,4 @@
-### Olá! Tenho 19 anos e novo no mundo do desenvolvimento e programação
+### Olá! Tenho 19 anos e iniciando minha carreira de sucesso!
 
 - 🔭 Estudando React, Node e Typescript
 - 🌱 Procurando uma primeira oportunidade de emprego
