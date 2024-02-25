@@ -15,9 +15,3 @@
   
   ##
   
-  <div > 
-  <a href="https://www.instagram.com/orafaelsh" alvo="_em branco"><img src="https://img.shields.io/badge/Instagram-E4405F?style = for-the-badge&logo = instagram&logoColor = branco " alvo="_em branco"></a>
-  <a href = "mailto: rafaelsilvarssantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style = for-the-badge&logo = gmail&logoColor = branco " alvo="_em branco"></a>
-  <a href="https://www.linkedin.com/in/rafaeldasilvasantos" alvo="_em branco"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style = for-the-badge&logo = linkedin&logoColor = branco " alvo="_em branco"></a> 
- 
-</div >
